@@ -1,0 +1,12 @@
+{
+  "short_name": "ResHunt",
+  "version": "0.9",
+  "name": "ResHunt",
+  "icons": [
+    {
+    }
+  ],
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
